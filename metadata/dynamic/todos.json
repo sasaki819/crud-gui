@@ -1,0 +1,35 @@
+{
+    "feature": {
+        "id": "todo",
+        "name": "Todo",
+        "creatable": true,
+        "editable": true,
+        "deletable": true,
+        "downloadable": true,
+        "uploadable": false,
+    },
+    "fields": {
+        "id": {
+            "type": "number",
+            "label": "ID",
+            "required": true,
+            "creatable": false,
+            "editable": false
+        },
+        "title": {
+            "type": "string",
+            "label": "Title",
+            "required": true,
+            "creatable": true,
+            "editable": true
+        },
+        "completed": {
+            "type": "boolean",
+            "label": "Completed",
+            "required": true,
+            "creatable": true,
+            "editable": true,
+            "default": false
+        }
+    }
+}
