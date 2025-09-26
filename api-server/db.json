@@ -1,0 +1,1862 @@
+{
+  "customers": [
+    {
+      "code": "CUST0001",
+      "name": "コンサルティング合同会社千田自動車",
+      "size": 1000,
+      "email": "hlzkzd.u14n5c@gmail.com",
+      "status": "deleted",
+      "createdAt": "2025/09/07 07:12:00",
+      "updatedAt": "2025/09/21 07:13:30"
+    },
+    {
+      "code": "CUST0002",
+      "name": "佐々木建設合資会社産業",
+      "size": 500,
+      "email": "g16i1cixjkep@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/16 20:24:00",
+      "updatedAt": "2025/09/24 04:52:45"
+    },
+    {
+      "code": "CUST0003",
+      "name": "田畑放送有限会社有限会社",
+      "size": 100,
+      "email": "9jh9kv.fitfey@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/03 09:36:00",
+      "updatedAt": "2025/09/16 03:04:32"
+    },
+    {
+      "code": "CUST0004",
+      "name": "有限会社有限会社中谷保険",
+      "size": 10000,
+      "email": "insi1c.kuigin14@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/08 03:36:00",
+      "updatedAt": "2025/09/21 20:31:29"
+    },
+    {
+      "code": "CUST0005",
+      "name": "システムズ有限会社林鉱業",
+      "size": 3000,
+      "email": "sdsn5j25@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/09 02:24:00",
+      "updatedAt": "2025/09/19 00:22:49"
+    },
+    {
+      "code": "CUST0006",
+      "name": "宮城製薬合同会社株式会社",
+      "size": 3000,
+      "email": "hm2feo41@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/23 10:48:00",
+      "updatedAt": "2025/09/24 12:54:51"
+    },
+    {
+      "code": "CUST0007",
+      "name": "株式会社有限会社野田ホテル",
+      "size": 999999999,
+      "email": "k4poow.hnpi9d25@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/11 14:24:00",
+      "updatedAt": "2025/09/20 14:42:21"
+    },
+    {
+      "code": "CUST0008",
+      "name": "有限会社大竹家具株式会社",
+      "size": 3000,
+      "email": "l7qts4.qg4kep22@gmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/04 08:24:00",
+      "updatedAt": "2025/09/15 10:48:51"
+    },
+    {
+      "code": "CUST0009",
+      "name": "テクノロジー有限会社上村倉庫",
+      "size": 10000,
+      "email": "ferlmf.kfyfit63@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/01 16:48:00",
+      "updatedAt": "2025/09/04 00:28:00"
+    },
+    {
+      "code": "CUST0010",
+      "name": "コンサルティング合資会社畠山農林",
+      "size": 1000,
+      "email": "fvphm2slq.g4on5c47@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/20 06:00:00",
+      "updatedAt": "2025/09/21 15:30:57"
+    },
+    {
+      "code": "CUST0011",
+      "name": "中原通信株式会社ソリューションズ",
+      "size": 100,
+      "email": "p7tts4.lgzkep84@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/16 19:12:00",
+      "updatedAt": "2025/09/25 07:43:19"
+    },
+    {
+      "code": "CUST0012",
+      "name": "ソリューションズ合資会社中島ガス",
+      "size": 100,
+      "email": "l7nts466@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/09 18:00:00",
+      "updatedAt": "2025/09/13 14:34:04"
+    },
+    {
+      "code": "CUST0013",
+      "name": "有限会社及川鉱業株式会社",
+      "size": 500,
+      "email": "gf4kq6fez33@gmail.com",
+      "status": "deleted",
+      "createdAt": "2025/09/17 07:12:00",
+      "updatedAt": "2025/09/21 13:33:57"
+    },
+    {
+      "code": "CUST0014",
+      "name": "システムズ株式会社藤原印刷",
+      "size": 999999999,
+      "email": "9jp9jj9l559@gmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/10 15:36:00",
+      "updatedAt": "2025/09/23 19:06:23"
+    },
+    {
+      "code": "CUST0015",
+      "name": "比嘉保険有限会社商事",
+      "size": 10000,
+      "email": "g16k2f46@hotmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/20 14:24:00",
+      "updatedAt": "2025/09/23 06:59:15"
+    },
+    {
+      "code": "CUST0016",
+      "name": "星野倉庫合名会社ソリューションズ",
+      "size": 500,
+      "email": "hlzkzd5@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/06 18:00:00",
+      "updatedAt": "2025/09/11 18:34:33"
+    },
+    {
+      "code": "CUST0017",
+      "name": "福永食品合同会社産業",
+      "size": 3000,
+      "email": "nemptdft5n5c@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/23 16:48:00",
+      "updatedAt": "2025/09/25 08:13:07"
+    },
+    {
+      "code": "CUST0018",
+      "name": "Inc.庄司不動産有限会社",
+      "size": 100,
+      "email": "nj3hm6.gllijh11@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/04 10:48:00",
+      "updatedAt": "2025/09/08 17:56:06"
+    },
+    {
+      "code": "CUST0019",
+      "name": "コンサルティング有限会社古川放送",
+      "size": 10000,
+      "email": "fjifkassu5@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/20 09:36:00",
+      "updatedAt": "2025/09/23 02:07:48"
+    },
+    {
+      "code": "CUST0020",
+      "name": "株式会社飯島証券ホールディングス",
+      "size": 999999999,
+      "email": "iwp.gbkop9@yahoo.com",
+      "status": "deleted",
+      "createdAt": "2025/09/20 03:36:00",
+      "updatedAt": "2025/09/22 21:20:09"
+    },
+    {
+      "code": "CUST0021",
+      "name": "株式会社合名会社松浦化学",
+      "size": 100,
+      "email": "opgi1cfeygin88@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/10 16:48:00",
+      "updatedAt": "2025/09/12 07:10:20"
+    },
+    {
+      "code": "CUST0022",
+      "name": "合名会社村瀬通信システムズ",
+      "size": 10000,
+      "email": "lm1hlzkep@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/12 06:00:00",
+      "updatedAt": "2025/09/25 23:30:28"
+    },
+    {
+      "code": "CUST0023",
+      "name": "産業川野運輸有限会社",
+      "size": 1000,
+      "email": "or4p90gkkrp3@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/15 14:24:00",
+      "updatedAt": "2025/09/21 07:27:28"
+    },
+    {
+      "code": "CUST0024",
+      "name": "ホールディングス石山証券合同会社",
+      "size": 500,
+      "email": "ken.lgin5c4@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/10 22:48:00",
+      "updatedAt": "2025/09/20 19:43:40"
+    },
+    {
+      "code": "CUST0025",
+      "name": "株式会社合名会社安達化学",
+      "size": 500,
+      "email": "nhwp72kepm5o39@hotmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/14 02:24:00",
+      "updatedAt": "2025/09/22 12:29:44"
+    },
+    {
+      "code": "CUST0026",
+      "name": "川本製薬合資会社商事",
+      "size": 999999999,
+      "email": "tq5glt48@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/21 10:48:00",
+      "updatedAt": "2025/09/21 22:37:12"
+    },
+    {
+      "code": "CUST0027",
+      "name": "システムズ浜田自動車合名会社",
+      "size": 100,
+      "email": "9kx9jj9ll9kvglliap@yahoo.com",
+      "status": "deleted",
+      "createdAt": "2025/09/01 19:12:00",
+      "updatedAt": "2025/09/12 11:10:23"
+    },
+    {
+      "code": "CUST0028",
+      "name": "合同会社中沢不動産システムズ",
+      "size": 5000,
+      "email": "nemptdivgqg4@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/04 22:48:00",
+      "updatedAt": "2025/09/15 22:04:13"
+    },
+    {
+      "code": "CUST0029",
+      "name": "産業長島ホテル合名会社",
+      "size": 1000,
+      "email": "u5r6@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/01 21:36:00",
+      "updatedAt": "2025/09/12 05:28:58"
+    },
+    {
+      "code": "CUST0030",
+      "name": "トレーディング合資会社根岸家具",
+      "size": 10000,
+      "email": "oq4ssxi1c@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/06 06:00:00",
+      "updatedAt": "2025/09/26 07:04:04"
+    },
+    {
+      "code": "CUST0031",
+      "name": "コンサルティング大川家具合同会社",
+      "size": 100,
+      "email": "lqdi1c.hlzhce30@hotmail.com",
+      "status": "deleted",
+      "createdAt": "2025/09/18 00:00:00",
+      "updatedAt": "2025/09/20 03:51:28"
+    },
+    {
+      "code": "CUST0032",
+      "name": "Inc.角田不動産合名会社",
+      "size": 999999999,
+      "email": "ssshmwkfyssu@yahoo.com",
+      "status": "suspended",
+      "createdAt": "2025/09/22 13:12:00",
+      "updatedAt": "2025/09/25 01:25:14"
+    },
+    {
+      "code": "CUST0033",
+      "name": "商事株式会社山川化学",
+      "size": 500,
+      "email": "hlzs9g.n5cse22@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/20 21:36:00",
+      "updatedAt": "2025/09/26 02:25:48"
+    },
+    {
+      "code": "CUST0034",
+      "name": "五十嵐銀行合同会社商事",
+      "size": 500,
+      "email": "gg3i6jssxlgi2@yahoo.com",
+      "status": "suspended",
+      "createdAt": "2025/09/07 06:00:00",
+      "updatedAt": "2025/09/24 11:06:00"
+    },
+    {
+      "code": "CUST0035",
+      "name": "株式会社大森食品産業",
+      "size": 3000,
+      "email": "i1pi1cr5r68@hotmail.com",
+      "status": "deleted",
+      "createdAt": "2025/09/21 04:48:00",
+      "updatedAt": "2025/09/21 13:59:26"
+    },
+    {
+      "code": "CUST0036",
+      "name": "ホールディングス泉ホテル合同会社",
+      "size": 3000,
+      "email": "j34k2f45@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/18 18:00:00",
+      "updatedAt": "2025/09/24 11:36:57"
+    },
+    {
+      "code": "CUST0037",
+      "name": "株式会社岩崎ガス合同会社",
+      "size": 999999999,
+      "email": "uf3.id2idq@gmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/01 16:48:00",
+      "updatedAt": "2025/09/09 03:38:39"
+    },
+    {
+      "code": "CUST0038",
+      "name": "合資会社深沢印刷LLC",
+      "size": 500,
+      "email": "o44i2xn5c@yahoo.com",
+      "status": "suspended",
+      "createdAt": "2025/09/10 15:36:00",
+      "updatedAt": "2025/09/24 16:14:26"
+    },
+    {
+      "code": "CUST0039",
+      "name": "Inc.北川電気合名会社",
+      "size": 3000,
+      "email": "jdcp72.mljssu32@hotmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/21 09:36:00",
+      "updatedAt": "2025/09/21 19:23:26"
+    },
+    {
+      "code": "CUST0040",
+      "name": "岡部水産株式会社テクノロジー",
+      "size": 500,
+      "email": "opgi1c.u7jid297@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/09 13:12:00",
+      "updatedAt": "2025/09/15 01:38:47"
+    },
+    {
+      "code": "CUST0041",
+      "name": "コンサルティング有限会社黒木放送",
+      "size": 999999999,
+      "email": "l7nfeoo0fgin55@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/07 21:36:00",
+      "updatedAt": "2025/09/12 21:19:04"
+    },
+    {
+      "code": "CUST0042",
+      "name": "株式会社荒川証券産業",
+      "size": 10000,
+      "email": "ptdu0j.g3plmf@gmail.com",
+      "status": "deleted",
+      "createdAt": "2025/09/01 20:24:00",
+      "updatedAt": "2025/09/11 13:29:08"
+    },
+    {
+      "code": "CUST0043",
+      "name": "有限会社川島銀行コンサルティング",
+      "size": 500,
+      "email": "j1x46@yahoo.com",
+      "status": "suspended",
+      "createdAt": "2025/09/11 04:48:00",
+      "updatedAt": "2025/09/24 19:51:05"
+    },
+    {
+      "code": "CUST0044",
+      "name": "商事有限会社竹下放送",
+      "size": 5000,
+      "email": "g64k4lul490@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/22 22:48:00",
+      "updatedAt": "2025/09/24 14:15:21"
+    },
+    {
+      "code": "CUST0045",
+      "name": "Inc.吉田電気有限会社",
+      "size": 100,
+      "email": "l7thluhlzgin40@hotmail.com",
+      "status": "active",
+      "createdAt": "2025/09/05 07:12:00",
+      "updatedAt": "2025/09/10 19:43:10"
+    },
+    {
+      "code": "CUST0046",
+      "name": "産業合資会社坂井運輸",
+      "size": 999999999,
+      "email": "ljfi1c62@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/10 15:36:00",
+      "updatedAt": "2025/09/24 10:12:08"
+    },
+    {
+      "code": "CUST0047",
+      "name": "合資会社相沢情報ホールディングス",
+      "size": 999999999,
+      "email": "feon5j34@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/22 19:12:00",
+      "updatedAt": "2025/09/25 10:31:13"
+    },
+    {
+      "code": "CUST0048",
+      "name": "システムズ有限会社高橋証券",
+      "size": 500,
+      "email": "og0i1cffxih7@yahoo.com",
+      "status": "active",
+      "createdAt": "2025/09/06 03:36:00",
+      "updatedAt": "2025/09/11 03:58:45"
+    },
+    {
+      "code": "CUST0049",
+      "name": "テクノロジー合同会社谷川情報",
+      "size": 500,
+      "email": "9kf9l76@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/13 07:12:00",
+      "updatedAt": "2025/09/15 16:18:41"
+    },
+    {
+      "code": "CUST0050",
+      "name": "トレーディング福本楽器株式会社",
+      "size": 100,
+      "email": "hlzs9pldkssu62@hotmail.com",
+      "status": "suspended",
+      "createdAt": "2025/09/20 06:00:00",
+      "updatedAt": "2025/09/22 04:27:07"
+    },
+    {
+      "code": "CUST0051",
+      "name": "テクノロジー合名会社高井情報",
+      "size": 10000,
+      "email": "gd9.kk7n5c37@gmail.com",
+      "status": "active",
+      "createdAt": "2025/09/26 00:00:00",
+      "updatedAt": "2025/09/26 08:17:52"
+    }
+  ],
+  "products": [
+    {
+      "category": "CTGR0003",
+      "code": "PROD0001",
+      "name": "Oriental Metal Shoes",
+      "description": "Featuring ラジウム-enhanced technology, our Table offers unparalleled sour performance",
+      "price": 112000,
+      "stock_quantity": 342,
+      "is_available": true,
+      "createdAt": "2025/09/25 10:09:07",
+      "updatedAt": "2025/09/26 01:41:19"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0002",
+      "name": "Practical Granite Salad",
+      "description": "Our deer-friendly Bacon ensures pink comfort for your pets",
+      "price": 111600,
+      "stock_quantity": 500,
+      "is_available": true,
+      "createdAt": "2025/08/08 09:00:00",
+      "updatedAt": "2025/08/23 22:58:04"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0003",
+      "name": "Licensed Marble Ball",
+      "description": "The 清子 Cheese is the latest in a series of entire products from 宮内運輸合同会社",
+      "price": 86500,
+      "stock_quantity": 407,
+      "is_available": true,
+      "createdAt": "2025/08/23 22:37:55",
+      "updatedAt": "2025/09/19 13:19:00"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0004",
+      "name": "Fantastic Wooden Towels",
+      "description": "Modern Cheese designed with Cotton for blond performance",
+      "price": 106300,
+      "stock_quantity": 208,
+      "is_available": true,
+      "createdAt": "2025/08/07 06:07:12",
+      "updatedAt": "2025/08/18 23:35:38"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0005",
+      "name": "Rustic Bamboo Tuna",
+      "description": "Innovative Shoes featuring dead technology and Rubber construction",
+      "price": 6700,
+      "stock_quantity": 128,
+      "is_available": true,
+      "createdAt": "2025/08/28 04:46:33",
+      "updatedAt": "2025/08/30 07:11:31"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0006",
+      "name": "Unbranded Granite Chicken",
+      "description": "Ergonomic Shoes made with Gold for all-day sudden support",
+      "price": 63000,
+      "stock_quantity": 469,
+      "is_available": true,
+      "createdAt": "2025/08/21 19:33:36",
+      "updatedAt": "2025/09/08 09:09:33"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0007",
+      "name": "Licensed Bronze Tuna",
+      "description": "The 昇 Gloves is the latest in a series of fatherly products from 合同会社宮沢倉庫",
+      "price": 127300,
+      "stock_quantity": 209,
+      "is_available": true,
+      "createdAt": "2025/08/04 16:17:45",
+      "updatedAt": "2025/09/13 22:31:47"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0008",
+      "name": "Intelligent Wooden Fish",
+      "description": "Stylish Ball designed to make you stand out with gifted looks",
+      "price": 122200,
+      "stock_quantity": 256,
+      "is_available": true,
+      "createdAt": "2025/08/22 22:26:24",
+      "updatedAt": "2025/09/19 06:43:43"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0009",
+      "name": "Generic Aluminum Bike",
+      "description": "Our butterfly-friendly Soap ensures snappy comfort for your pets",
+      "price": 34400,
+      "stock_quantity": 31,
+      "is_available": true,
+      "createdAt": "2025/09/11 12:50:24",
+      "updatedAt": "2025/09/19 08:53:32"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0010",
+      "name": "Electronic Cotton Pants",
+      "description": "The sleek and worst Computer comes with orange LED lighting for smart functionality",
+      "price": 23300,
+      "stock_quantity": 408,
+      "is_available": true,
+      "createdAt": "2025/08/04 18:59:02",
+      "updatedAt": "2025/08/14 18:46:01"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0011",
+      "name": "Intelligent Bronze Towels",
+      "description": "Our hippopotamus-friendly Ball ensures acidic comfort for your pets",
+      "price": 101600,
+      "stock_quantity": 156,
+      "is_available": true,
+      "createdAt": "2025/08/24 09:23:02",
+      "updatedAt": "2025/09/14 15:11:04"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0012",
+      "name": "Sleek Granite Bike",
+      "description": "Innovative Cheese featuring firsthand technology and Metal construction",
+      "price": 44200,
+      "stock_quantity": 119,
+      "is_available": true,
+      "createdAt": "2025/08/22 11:41:16",
+      "updatedAt": "2025/09/07 17:52:31"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0013",
+      "name": "Gorgeous Concrete Chicken",
+      "description": "Ergonomic Towels made with Wooden for all-day rundown support",
+      "price": 92500,
+      "stock_quantity": 183,
+      "is_available": true,
+      "createdAt": "2025/08/19 16:29:16",
+      "updatedAt": "2025/09/02 20:35:04"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0014",
+      "name": "Unbranded Silk Shirt",
+      "description": "The indigo Chicken combines ガンビア aesthetics with モリブデン-based durability",
+      "price": 139000,
+      "stock_quantity": 484,
+      "is_available": true,
+      "createdAt": "2025/08/11 12:15:50",
+      "updatedAt": "2025/09/21 12:19:19"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0015",
+      "name": "Unbranded Metal Tuna",
+      "description": "Savor the spicy essence in our Bike, designed for unsteady culinary adventures",
+      "price": 140600,
+      "stock_quantity": 374,
+      "is_available": true,
+      "createdAt": "2025/08/16 07:50:52",
+      "updatedAt": "2025/09/21 06:50:28"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0016",
+      "name": "Recycled Cotton Computer",
+      "description": "Savor the sour essence in our Cheese, designed for empty culinary adventures",
+      "price": 135000,
+      "stock_quantity": 403,
+      "is_available": true,
+      "createdAt": "2025/08/05 11:06:43",
+      "updatedAt": "2025/08/15 02:50:49"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0017",
+      "name": "Oriental Ceramic Pizza",
+      "description": "The sleek and heavenly Car comes with grey LED lighting for smart functionality",
+      "price": 87200,
+      "stock_quantity": 332,
+      "is_available": true,
+      "createdAt": "2025/08/06 16:40:48",
+      "updatedAt": "2025/09/11 08:58:09"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0018",
+      "name": "Rustic Marble Chips",
+      "description": "Innovative Cheese featuring impure technology and Granite construction",
+      "price": 147200,
+      "stock_quantity": 98,
+      "is_available": true,
+      "createdAt": "2025/08/13 07:16:19",
+      "updatedAt": "2025/08/25 04:51:30"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0019",
+      "name": "Refined Granite Mouse",
+      "description": "Featuring チタン-enhanced technology, our Soap offers unparalleled unusual performance",
+      "price": 37800,
+      "stock_quantity": 356,
+      "is_available": true,
+      "createdAt": "2025/09/02 08:25:26",
+      "updatedAt": "2025/09/15 07:46:30"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0020",
+      "name": "Tasty Steel Cheese",
+      "description": "New Towels model with 25 GB RAM, 369 GB storage, and authentic features",
+      "price": 125100,
+      "stock_quantity": 206,
+      "is_available": true,
+      "createdAt": "2025/09/20 03:48:57",
+      "updatedAt": "2025/09/22 15:47:16"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0021",
+      "name": "Oriental Silk Cheese",
+      "description": "Professional-grade Chair perfect for low training and recreational use",
+      "price": 6000,
+      "stock_quantity": 156,
+      "is_available": true,
+      "createdAt": "2025/08/12 01:42:14",
+      "updatedAt": "2025/08/24 09:26:54"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0022",
+      "name": "Handmade Cotton Mouse",
+      "description": "Stylish Hat designed to make you stand out with well-documented looks",
+      "price": 100200,
+      "stock_quantity": 290,
+      "is_available": true,
+      "createdAt": "2025/09/25 07:27:50",
+      "updatedAt": "2025/09/25 15:10:33"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0023",
+      "name": "Luxurious Bamboo Hat",
+      "description": "The 悠人 Pizza is the latest in a series of untidy products from 合同会社西本楽器",
+      "price": 66900,
+      "stock_quantity": 262,
+      "is_available": true,
+      "createdAt": "2025/09/24 07:16:19",
+      "updatedAt": "2025/09/24 11:50:49"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0024",
+      "name": "Handcrafted Concrete Pants",
+      "description": "Experience the violet brilliance of our Sausages, perfect for rundown environments",
+      "price": 17800,
+      "stock_quantity": 368,
+      "is_available": true,
+      "createdAt": "2025/09/23 17:49:55",
+      "updatedAt": "2025/09/24 18:43:12"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0025",
+      "name": "Recycled Ceramic Computer",
+      "description": "Introducing the ラオス-inspired Towels, blending putrid style with local craftsmanship",
+      "price": 99600,
+      "stock_quantity": 281,
+      "is_available": true,
+      "createdAt": "2025/08/30 10:32:09",
+      "updatedAt": "2025/09/08 11:44:52"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0026",
+      "name": "Gorgeous Cotton Salad",
+      "description": "Experience the black brilliance of our Ball, perfect for celebrated environments",
+      "price": 37900,
+      "stock_quantity": 168,
+      "is_available": true,
+      "createdAt": "2025/09/23 01:42:14",
+      "updatedAt": "2025/09/23 09:47:31"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0027",
+      "name": "Bespoke Marble Keyboard",
+      "description": "Featuring スカンジウム-enhanced technology, our Pants offers unparalleled dearest performance",
+      "price": 12300,
+      "stock_quantity": 281,
+      "is_available": true,
+      "createdAt": "2025/08/31 02:39:50",
+      "updatedAt": "2025/09/03 23:57:13"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0028",
+      "name": "Electronic Ceramic Shoes",
+      "description": "Experience the turquoise brilliance of our Shoes, perfect for mixed environments",
+      "price": 45800,
+      "stock_quantity": 127,
+      "is_available": true,
+      "createdAt": "2025/08/30 02:28:19",
+      "updatedAt": "2025/09/15 22:58:13"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0029",
+      "name": "Incredible Aluminum Sausages",
+      "description": "Innovative Chair featuring unkempt technology and Aluminum construction",
+      "price": 43200,
+      "stock_quantity": 358,
+      "is_available": true,
+      "createdAt": "2025/08/23 06:30:14",
+      "updatedAt": "2025/09/12 11:03:13"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0030",
+      "name": "Fresh Marble Sausages",
+      "description": "合資会社星野印刷's most advanced Cheese technology increases bitter capabilities",
+      "price": 26100,
+      "stock_quantity": 72,
+      "is_available": true,
+      "createdAt": "2025/09/11 10:09:07",
+      "updatedAt": "2025/09/13 18:50:59"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0031",
+      "name": "Oriental Aluminum Pizza",
+      "description": "The sleek and present Bacon comes with teal LED lighting for smart functionality",
+      "price": 25400,
+      "stock_quantity": 453,
+      "is_available": true,
+      "createdAt": "2025/08/05 03:02:52",
+      "updatedAt": "2025/09/24 01:49:34"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0032",
+      "name": "Handmade Granite Towels",
+      "description": "Our fresh-inspired Pants brings a taste of luxury to your grimy lifestyle",
+      "price": 93600,
+      "stock_quantity": 321,
+      "is_available": true,
+      "createdAt": "2025/09/19 17:03:50",
+      "updatedAt": "2025/09/24 21:29:39"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0033",
+      "name": "Frozen Granite Pizza",
+      "description": "The pink Ball combines ルクセンブルク aesthetics with プロメチウム-based durability",
+      "price": 3700,
+      "stock_quantity": 304,
+      "is_available": true,
+      "createdAt": "2025/08/28 04:46:33",
+      "updatedAt": "2025/09/26 03:23:53"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0034",
+      "name": "Awesome Granite Tuna",
+      "description": "The sleek and bulky Chicken comes with silver LED lighting for smart functionality",
+      "price": 115800,
+      "stock_quantity": 243,
+      "is_available": true,
+      "createdAt": "2025/08/26 17:49:55",
+      "updatedAt": "2025/09/05 17:29:48"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0035",
+      "name": "Intelligent Wooden Gloves",
+      "description": "Introducing the アラブ首長国連邦-inspired Pizza, blending glittering style with local craftsmanship",
+      "price": 120300,
+      "stock_quantity": 453,
+      "is_available": true,
+      "createdAt": "2025/09/22 01:30:43",
+      "updatedAt": "2025/09/25 20:10:02"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0036",
+      "name": "Handmade Ceramic Car",
+      "description": "合名会社村田証券's most advanced Car technology increases fragrant capabilities",
+      "price": 56600,
+      "stock_quantity": 212,
+      "is_available": true,
+      "createdAt": "2025/09/05 19:45:07",
+      "updatedAt": "2025/09/09 03:39:29"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0037",
+      "name": "Small Wooden Bike",
+      "description": "Featuring マイトネリウム-enhanced technology, our Bacon offers unparalleled magnificent performance",
+      "price": 18100,
+      "stock_quantity": 462,
+      "is_available": true,
+      "createdAt": "2025/09/20 01:07:40",
+      "updatedAt": "2025/09/23 02:01:35"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0038",
+      "name": "Tasty Plastic Chips",
+      "description": "Discover the cow-like agility of our Tuna, perfect for mysterious users",
+      "price": 81300,
+      "stock_quantity": 301,
+      "is_available": true,
+      "createdAt": "2025/08/06 03:14:24",
+      "updatedAt": "2025/08/17 02:24:31"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0039",
+      "name": "Frozen Cotton Ball",
+      "description": "Innovative Fish featuring trusting technology and Steel construction",
+      "price": 28900,
+      "stock_quantity": 454,
+      "is_available": true,
+      "createdAt": "2025/08/04 16:17:45",
+      "updatedAt": "2025/08/14 03:56:33"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0040",
+      "name": "Oriental Marble Cheese",
+      "description": "Our crunchy-inspired Mouse brings a taste of luxury to your golden lifestyle",
+      "price": 112200,
+      "stock_quantity": 374,
+      "is_available": true,
+      "createdAt": "2025/09/03 03:14:24",
+      "updatedAt": "2025/09/13 14:13:55"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0041",
+      "name": "Soft Marble Chips",
+      "description": "The sleek and peaceful Salad comes with plum LED lighting for smart functionality",
+      "price": 63200,
+      "stock_quantity": 326,
+      "is_available": true,
+      "createdAt": "2025/09/22 17:38:24",
+      "updatedAt": "2025/09/25 23:54:52"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0042",
+      "name": "Elegant Plastic Chair",
+      "description": "Stylish Chair designed to make you stand out with spanish looks",
+      "price": 89200,
+      "stock_quantity": 116,
+      "is_available": true,
+      "createdAt": "2025/09/11 10:09:07",
+      "updatedAt": "2025/09/22 06:40:32"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0043",
+      "name": "Small Gold Cheese",
+      "description": "The 武 Mouse is the latest in a series of nervous products from 大平楽器有限会社",
+      "price": 34800,
+      "stock_quantity": 170,
+      "is_available": true,
+      "createdAt": "2025/09/16 05:44:09",
+      "updatedAt": "2025/09/16 16:26:22"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0044",
+      "name": "Fantastic Wooden Towels",
+      "description": "The silver Computer combines オーストラリア aesthetics with マイトネリウム-based durability",
+      "price": 1300,
+      "stock_quantity": 235,
+      "is_available": true,
+      "createdAt": "2025/09/25 12:50:24",
+      "updatedAt": "2025/09/25 15:37:19"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0045",
+      "name": "Oriental Bronze Keyboard",
+      "description": "Our salty-inspired Bike brings a taste of luxury to your well-groomed lifestyle",
+      "price": 28500,
+      "stock_quantity": 124,
+      "is_available": true,
+      "createdAt": "2025/08/27 07:16:19",
+      "updatedAt": "2025/09/02 07:37:03"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0046",
+      "name": "Sleek Gold Gloves",
+      "description": "The 陽葵 Car is the latest in a series of jam-packed products from 金沢金属合名会社",
+      "price": 27600,
+      "stock_quantity": 305,
+      "is_available": true,
+      "createdAt": "2025/09/12 07:39:21",
+      "updatedAt": "2025/09/14 21:03:09"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0047",
+      "name": "Tasty Ceramic Sausages",
+      "description": "北野農林合名会社's most advanced Tuna technology increases frightened capabilities",
+      "price": 75100,
+      "stock_quantity": 364,
+      "is_available": true,
+      "createdAt": "2025/09/18 11:29:45",
+      "updatedAt": "2025/09/20 14:16:59"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0048",
+      "name": "Modern Bamboo Cheese",
+      "description": "合名会社高島保険's most advanced Sausages technology increases elastic capabilities",
+      "price": 104100,
+      "stock_quantity": 317,
+      "is_available": true,
+      "createdAt": "2025/08/10 20:08:09",
+      "updatedAt": "2025/08/26 13:38:09"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0049",
+      "name": "Fresh Concrete Cheese",
+      "description": "Experience the azure brilliance of our Bacon, perfect for hairy environments",
+      "price": 65000,
+      "stock_quantity": 463,
+      "is_available": true,
+      "createdAt": "2025/09/03 11:18:14",
+      "updatedAt": "2025/09/18 20:41:58"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0050",
+      "name": "Electronic Wooden Shirt",
+      "description": "Stylish Towels designed to make you stand out with accomplished looks",
+      "price": 51300,
+      "stock_quantity": 191,
+      "is_available": true,
+      "createdAt": "2025/08/05 05:44:09",
+      "updatedAt": "2025/08/28 11:47:59"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0051",
+      "name": "Oriental Aluminum Pants",
+      "description": "The sleek and lavish Ball comes with ivory LED lighting for smart functionality",
+      "price": 16600,
+      "stock_quantity": 488,
+      "is_available": true,
+      "createdAt": "2025/09/13 13:13:26",
+      "updatedAt": "2025/09/20 11:25:22"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0052",
+      "name": "Handcrafted Marble Chips",
+      "description": "Discover the hairy new Bacon with an exciting mix of Plastic ingredients",
+      "price": 89600,
+      "stock_quantity": 195,
+      "is_available": true,
+      "createdAt": "2025/09/04 22:14:52",
+      "updatedAt": "2025/09/16 15:18:09"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0053",
+      "name": "Handmade Metal Soap",
+      "description": "Handcrafted Towels designed with Steel for burdensome performance",
+      "price": 74900,
+      "stock_quantity": 153,
+      "is_available": true,
+      "createdAt": "2025/08/11 14:57:07",
+      "updatedAt": "2025/09/21 06:01:07"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0054",
+      "name": "Fresh Cotton Chair",
+      "description": "The Business-focused zero administration analyzer Chair offers reliable performance and filthy design",
+      "price": 132300,
+      "stock_quantity": 0,
+      "is_available": false,
+      "createdAt": "2025/08/08 19:45:07",
+      "updatedAt": "2025/08/29 16:48:31"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0055",
+      "name": "Modern Marble Chicken",
+      "description": "Introducing the グレナダ-inspired Shirt, blending inconsequential style with local craftsmanship",
+      "price": 79600,
+      "stock_quantity": 205,
+      "is_available": true,
+      "createdAt": "2025/09/25 15:31:40",
+      "updatedAt": "2025/09/26 02:13:15"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0056",
+      "name": "Luxurious Bamboo Computer",
+      "description": "The めぐみ Car is the latest in a series of impartial products from 白石通信株式会社",
+      "price": 77200,
+      "stock_quantity": 451,
+      "is_available": true,
+      "createdAt": "2025/09/10 07:16:19",
+      "updatedAt": "2025/09/23 07:42:42"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0057",
+      "name": "Modern Granite Cheese",
+      "description": "Professional-grade Shoes perfect for entire training and recreational use",
+      "price": 51900,
+      "stock_quantity": 456,
+      "is_available": true,
+      "createdAt": "2025/08/08 00:56:09",
+      "updatedAt": "2025/09/05 10:57:24"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0058",
+      "name": "Handmade Bronze Computer",
+      "description": "Ergonomic Sausages made with Granite for all-day dapper support",
+      "price": 140800,
+      "stock_quantity": 282,
+      "is_available": true,
+      "createdAt": "2025/08/02 23:58:33",
+      "updatedAt": "2025/09/11 21:51:49"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0059",
+      "name": "Oriental Marble Hat",
+      "description": "今井不動産有限会社's most advanced Ball technology increases lonely capabilities",
+      "price": 15300,
+      "stock_quantity": 76,
+      "is_available": true,
+      "createdAt": "2025/08/20 08:36:57",
+      "updatedAt": "2025/09/05 04:50:39"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0060",
+      "name": "Recycled Wooden Tuna",
+      "description": "Stylish Bacon designed to make you stand out with minor looks",
+      "price": 149400,
+      "stock_quantity": 36,
+      "is_available": true,
+      "createdAt": "2025/09/03 13:59:31",
+      "updatedAt": "2025/09/14 18:01:33"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0061",
+      "name": "Handcrafted Cotton Sausages",
+      "description": "Stylish Bacon designed to make you stand out with misguided looks",
+      "price": 142700,
+      "stock_quantity": 190,
+      "is_available": true,
+      "createdAt": "2025/09/17 19:22:04",
+      "updatedAt": "2025/09/24 22:27:13"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0062",
+      "name": "Refined Ceramic Keyboard",
+      "description": "Savor the crispy essence in our Chicken, designed for glum culinary adventures",
+      "price": 64700,
+      "stock_quantity": 295,
+      "is_available": true,
+      "createdAt": "2025/08/27 04:35:02",
+      "updatedAt": "2025/08/27 14:43:32"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0063",
+      "name": "Generic Metal Shoes",
+      "description": "Savor the rich essence in our Shoes, designed for cluttered culinary adventures",
+      "price": 140400,
+      "stock_quantity": 325,
+      "is_available": true,
+      "createdAt": "2025/08/31 02:39:50",
+      "updatedAt": "2025/09/19 13:06:45"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0064",
+      "name": "Elegant Gold Fish",
+      "description": "Featuring ガリウム-enhanced technology, our Chair offers unparalleled flimsy performance",
+      "price": 143700,
+      "stock_quantity": 337,
+      "is_available": true,
+      "createdAt": "2025/09/10 07:16:19",
+      "updatedAt": "2025/09/23 13:52:59"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0065",
+      "name": "Electronic Plastic Gloves",
+      "description": "Savor the tender essence in our Shoes, designed for recent culinary adventures",
+      "price": 111300,
+      "stock_quantity": 67,
+      "is_available": true,
+      "createdAt": "2025/09/09 17:49:55",
+      "updatedAt": "2025/09/21 20:25:34"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0066",
+      "name": "Bespoke Gold Soap",
+      "description": "Our bitter-inspired Hat brings a taste of luxury to your blaring lifestyle",
+      "price": 129700,
+      "stock_quantity": 124,
+      "is_available": true,
+      "createdAt": "2025/09/11 20:54:14",
+      "updatedAt": "2025/09/24 20:06:06"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0067",
+      "name": "Fantastic Cotton Sausages",
+      "description": "Our sweet-inspired Sausages brings a taste of luxury to your violent lifestyle",
+      "price": 16300,
+      "stock_quantity": 0,
+      "is_available": false,
+      "createdAt": "2025/09/20 17:15:21",
+      "updatedAt": "2025/09/23 16:23:09"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0068",
+      "name": "Bespoke Steel Cheese",
+      "description": "Experience the grey brilliance of our Bacon, perfect for crowded environments",
+      "price": 75100,
+      "stock_quantity": 290,
+      "is_available": true,
+      "createdAt": "2025/09/08 23:00:57",
+      "updatedAt": "2025/09/24 14:21:56"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0069",
+      "name": "Intelligent Gold Soap",
+      "description": "Experience the ivory brilliance of our Shoes, perfect for tired environments",
+      "price": 64600,
+      "stock_quantity": 261,
+      "is_available": true,
+      "createdAt": "2025/08/12 12:27:21",
+      "updatedAt": "2025/09/04 20:15:31"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0070",
+      "name": "Frozen Silk Tuna",
+      "description": "Featuring 鉛-enhanced technology, our Shoes offers unparalleled questionable performance",
+      "price": 106100,
+      "stock_quantity": 134,
+      "is_available": true,
+      "createdAt": "2025/08/29 21:05:45",
+      "updatedAt": "2025/09/23 16:19:45"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0071",
+      "name": "Ergonomic Concrete Shoes",
+      "description": "Our fox-friendly Bacon ensures blaring comfort for your pets",
+      "price": 88900,
+      "stock_quantity": 442,
+      "is_available": true,
+      "createdAt": "2025/09/19 09:00:00",
+      "updatedAt": "2025/09/23 18:30:14"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0072",
+      "name": "Fresh Steel Table",
+      "description": "Introducing the アルゼンチン-inspired Mouse, blending amused style with local craftsmanship",
+      "price": 19100,
+      "stock_quantity": 300,
+      "is_available": true,
+      "createdAt": "2025/09/10 07:16:19",
+      "updatedAt": "2025/09/12 09:24:59"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0073",
+      "name": "Licensed Bronze Towels",
+      "description": "Discover the dolphin-like agility of our Soap, perfect for sparse users",
+      "price": 123200,
+      "stock_quantity": 249,
+      "is_available": true,
+      "createdAt": "2025/09/19 03:37:26",
+      "updatedAt": "2025/09/24 16:46:36"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0074",
+      "name": "Ergonomic Steel Tuna",
+      "description": "New Bacon model with 67 GB RAM, 359 GB storage, and prickly features",
+      "price": 26900,
+      "stock_quantity": 385,
+      "is_available": true,
+      "createdAt": "2025/09/16 19:10:33",
+      "updatedAt": "2025/09/18 01:58:20"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0075",
+      "name": "Luxurious Silk Keyboard",
+      "description": "New violet Pizza with ergonomic design for steel comfort",
+      "price": 6700,
+      "stock_quantity": 251,
+      "is_available": true,
+      "createdAt": "2025/08/12 17:49:55",
+      "updatedAt": "2025/08/28 06:35:54"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0076",
+      "name": "Awesome Metal Fish",
+      "description": "Our fresh-inspired Salad brings a taste of luxury to your cheap lifestyle",
+      "price": 80400,
+      "stock_quantity": 490,
+      "is_available": true,
+      "createdAt": "2025/08/12 15:08:38",
+      "updatedAt": "2025/08/17 00:22:54"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0077",
+      "name": "Tasty Steel Shirt",
+      "description": "Introducing the チュニジア-inspired Towels, blending respectful style with local craftsmanship",
+      "price": 62200,
+      "stock_quantity": 0,
+      "is_available": false,
+      "createdAt": "2025/08/11 04:12:00",
+      "updatedAt": "2025/09/14 13:08:49"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0078",
+      "name": "Handcrafted Wooden Pants",
+      "description": "Intelligent Chips designed with Wooden for legal performance",
+      "price": 65300,
+      "stock_quantity": 15,
+      "is_available": true,
+      "createdAt": "2025/09/03 08:36:57",
+      "updatedAt": "2025/09/19 03:33:05"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0079",
+      "name": "Handmade Concrete Keyboard",
+      "description": "Our bird-friendly Hat ensures second comfort for your pets",
+      "price": 43300,
+      "stock_quantity": 161,
+      "is_available": true,
+      "createdAt": "2025/09/07 06:41:45",
+      "updatedAt": "2025/09/21 17:10:25"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0080",
+      "name": "Tasty Bronze Sausages",
+      "description": "Discover the exalted new Bike with an exciting mix of Concrete ingredients",
+      "price": 30700,
+      "stock_quantity": 297,
+      "is_available": true,
+      "createdAt": "2025/08/22 00:56:09",
+      "updatedAt": "2025/09/12 21:02:22"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0081",
+      "name": "Soft Wooden Pants",
+      "description": "Ergonomic Fish made with Plastic for all-day stormy support",
+      "price": 117100,
+      "stock_quantity": 199,
+      "is_available": true,
+      "createdAt": "2025/09/08 09:34:33",
+      "updatedAt": "2025/09/20 04:35:24"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0082",
+      "name": "Rustic Metal Soap",
+      "description": "Ergonomic Mouse made with Bamboo for all-day needy support",
+      "price": 34000,
+      "stock_quantity": 0,
+      "is_available": false,
+      "createdAt": "2025/08/30 07:50:52",
+      "updatedAt": "2025/09/14 04:52:53"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0083",
+      "name": "Gorgeous Concrete Car",
+      "description": "Discover the nocturnal new Keyboard with an exciting mix of Granite ingredients",
+      "price": 89600,
+      "stock_quantity": 212,
+      "is_available": true,
+      "createdAt": "2025/08/03 08:02:24",
+      "updatedAt": "2025/08/04 20:21:17"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0084",
+      "name": "Soft Rubber Shirt",
+      "description": "Oriental Mouse designed with Silk for big performance",
+      "price": 149100,
+      "stock_quantity": 394,
+      "is_available": true,
+      "createdAt": "2025/08/26 12:27:21",
+      "updatedAt": "2025/09/24 11:05:10"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0085",
+      "name": "Modern Marble Chicken",
+      "description": "Introducing the モルディブ-inspired Bacon, blending knowledgeable style with local craftsmanship",
+      "price": 86600,
+      "stock_quantity": 342,
+      "is_available": true,
+      "createdAt": "2025/09/22 17:38:24",
+      "updatedAt": "2025/09/24 09:28:34"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0086",
+      "name": "Practical Ceramic Soap",
+      "description": "Luxurious Chips designed with Bamboo for blank performance",
+      "price": 31500,
+      "stock_quantity": 46,
+      "is_available": true,
+      "createdAt": "2025/09/11 20:54:14",
+      "updatedAt": "2025/09/13 00:03:19"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0087",
+      "name": "Incredible Silk Shoes",
+      "description": "Savor the tangy essence in our Salad, designed for unkempt culinary adventures",
+      "price": 133300,
+      "stock_quantity": 458,
+      "is_available": true,
+      "createdAt": "2025/09/09 23:12:28",
+      "updatedAt": "2025/09/25 06:13:19"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0088",
+      "name": "Incredible Silk Computer",
+      "description": "New Ball model with 98 GB RAM, 890 GB storage, and light features",
+      "price": 110600,
+      "stock_quantity": 157,
+      "is_available": true,
+      "createdAt": "2025/08/14 20:54:14",
+      "updatedAt": "2025/08/29 05:41:47"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0089",
+      "name": "Handcrafted Cotton Pizza",
+      "description": "Professional-grade Shirt perfect for clear-cut training and recreational use",
+      "price": 61300,
+      "stock_quantity": 438,
+      "is_available": true,
+      "createdAt": "2025/09/26 07:39:21",
+      "updatedAt": "2025/09/26 07:47:06"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0090",
+      "name": "Recycled Bronze Tuna",
+      "description": "Our lion-friendly Shirt ensures tempting comfort for your pets",
+      "price": 103500,
+      "stock_quantity": 337,
+      "is_available": true,
+      "createdAt": "2025/08/25 09:34:33",
+      "updatedAt": "2025/09/04 13:37:00"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0091",
+      "name": "Ergonomic Wooden Cheese",
+      "description": "Innovative Chips featuring fantastic technology and Plastic construction",
+      "price": 112600,
+      "stock_quantity": 157,
+      "is_available": true,
+      "createdAt": "2025/08/31 13:24:57",
+      "updatedAt": "2025/09/03 13:17:15"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0092",
+      "name": "Recycled Bamboo Soap",
+      "description": "Ergonomic Bacon made with Steel for all-day both support",
+      "price": 83500,
+      "stock_quantity": 191,
+      "is_available": true,
+      "createdAt": "2025/08/22 11:41:16",
+      "updatedAt": "2025/09/01 21:12:25"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0093",
+      "name": "Bespoke Bamboo Towels",
+      "description": "Ergonomic Bike made with Steel for all-day red support",
+      "price": 60600,
+      "stock_quantity": 400,
+      "is_available": true,
+      "createdAt": "2025/08/28 04:46:33",
+      "updatedAt": "2025/09/14 22:30:43"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0094",
+      "name": "Incredible Plastic Chair",
+      "description": "Featuring セシウム-enhanced technology, our Ball offers unparalleled which performance",
+      "price": 35200,
+      "stock_quantity": 177,
+      "is_available": true,
+      "createdAt": "2025/08/10 04:00:28",
+      "updatedAt": "2025/09/07 09:32:13"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0095",
+      "name": "Fantastic Concrete Sausages",
+      "description": "Professional-grade Cheese perfect for distant training and recreational use",
+      "price": 123200,
+      "stock_quantity": 139,
+      "is_available": true,
+      "createdAt": "2025/08/26 04:23:31",
+      "updatedAt": "2025/09/23 06:08:21"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0096",
+      "name": "Small Rubber Salad",
+      "description": "The maroon Fish combines チリ aesthetics with 臭素-based durability",
+      "price": 38700,
+      "stock_quantity": 121,
+      "is_available": true,
+      "createdAt": "2025/09/07 14:45:36",
+      "updatedAt": "2025/09/13 12:08:07"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0097",
+      "name": "Licensed Metal Bike",
+      "description": "The Open-source reciprocal archive Ball offers reliable performance and uncommon design",
+      "price": 6000,
+      "stock_quantity": 347,
+      "is_available": true,
+      "createdAt": "2025/08/15 15:43:12",
+      "updatedAt": "2025/09/16 08:41:34"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0098",
+      "name": "Bespoke Marble Keyboard",
+      "description": "Introducing the カンボジア-inspired Car, blending jaunty style with local craftsmanship",
+      "price": 137800,
+      "stock_quantity": 197,
+      "is_available": true,
+      "createdAt": "2025/09/10 01:53:45",
+      "updatedAt": "2025/09/11 02:08:40"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0099",
+      "name": "Electronic Aluminum Chicken",
+      "description": "Discover the bat-like agility of our Keyboard, perfect for tattered users",
+      "price": 111100,
+      "stock_quantity": 312,
+      "is_available": true,
+      "createdAt": "2025/09/24 07:16:19",
+      "updatedAt": "2025/09/24 10:15:20"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0100",
+      "name": "Awesome Silk Computer",
+      "description": "Experience the lime brilliance of our Shoes, perfect for excited environments",
+      "price": 113800,
+      "stock_quantity": 304,
+      "is_available": true,
+      "createdAt": "2025/08/04 02:51:21",
+      "updatedAt": "2025/08/25 22:53:42"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0101",
+      "name": "Sleek Metal Salad",
+      "description": "Discover the tiger-like agility of our Chicken, perfect for tricky users",
+      "price": 900,
+      "stock_quantity": 267,
+      "is_available": true,
+      "createdAt": "2025/09/15 02:51:21",
+      "updatedAt": "2025/09/15 17:59:02"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0102",
+      "name": "Luxurious Concrete Shoes",
+      "description": "The sleek and chilly Towels comes with fuchsia LED lighting for smart functionality",
+      "price": 109600,
+      "stock_quantity": 91,
+      "is_available": true,
+      "createdAt": "2025/08/14 15:31:40",
+      "updatedAt": "2025/09/01 08:04:24"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0103",
+      "name": "Handcrafted Cotton Bacon",
+      "description": "Frozen Ball designed with Rubber for untimely performance",
+      "price": 126000,
+      "stock_quantity": 443,
+      "is_available": true,
+      "createdAt": "2025/09/15 18:59:02",
+      "updatedAt": "2025/09/21 08:05:18"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0104",
+      "name": "Sleek Metal Table",
+      "description": "Stylish Cheese designed to make you stand out with smoggy looks",
+      "price": 41200,
+      "stock_quantity": 205,
+      "is_available": true,
+      "createdAt": "2025/08/13 23:24:00",
+      "updatedAt": "2025/08/18 05:28:36"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0105",
+      "name": "Soft Granite Pizza",
+      "description": "Professional-grade Hat perfect for naughty training and recreational use",
+      "price": 66100,
+      "stock_quantity": 229,
+      "is_available": true,
+      "createdAt": "2025/08/21 00:44:38",
+      "updatedAt": "2025/09/20 06:27:39"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0106",
+      "name": "Elegant Aluminum Keyboard",
+      "description": "Stylish Chicken designed to make you stand out with impressionable looks",
+      "price": 4000,
+      "stock_quantity": 294,
+      "is_available": true,
+      "createdAt": "2025/09/09 15:08:38",
+      "updatedAt": "2025/09/24 20:49:58"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0107",
+      "name": "Handmade Steel Tuna",
+      "description": "Ergonomic Chair made with Bamboo for all-day present support",
+      "price": 44100,
+      "stock_quantity": 219,
+      "is_available": true,
+      "createdAt": "2025/09/01 10:55:12",
+      "updatedAt": "2025/09/11 12:32:39"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0108",
+      "name": "Unbranded Bamboo Pizza",
+      "description": "Introducing the モルドバ-inspired Cheese, blending dark style with local craftsmanship",
+      "price": 26700,
+      "stock_quantity": 197,
+      "is_available": true,
+      "createdAt": "2025/08/17 02:39:50",
+      "updatedAt": "2025/09/23 21:05:13"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0109",
+      "name": "Luxurious Plastic Sausages",
+      "description": "Discover the polar bear-like agility of our Pizza, perfect for distant users",
+      "price": 43800,
+      "stock_quantity": 88,
+      "is_available": true,
+      "createdAt": "2025/09/25 20:54:14",
+      "updatedAt": "2025/09/26 03:29:03"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0110",
+      "name": "Awesome Bronze Pizza",
+      "description": "Professional-grade Hat perfect for thrifty training and recreational use",
+      "price": 20800,
+      "stock_quantity": 281,
+      "is_available": true,
+      "createdAt": "2025/08/21 08:48:28",
+      "updatedAt": "2025/08/30 05:23:57"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0111",
+      "name": "Oriental Metal Hat",
+      "description": "Discover the eagle-like agility of our Computer, perfect for humiliating users",
+      "price": 72200,
+      "stock_quantity": 190,
+      "is_available": true,
+      "createdAt": "2025/09/13 23:58:33",
+      "updatedAt": "2025/09/17 17:04:59"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0112",
+      "name": "Modern Metal Towels",
+      "description": "Discover the elephant-like agility of our Pizza, perfect for gullible users",
+      "price": 85800,
+      "stock_quantity": 283,
+      "is_available": true,
+      "createdAt": "2025/09/20 14:34:04",
+      "updatedAt": "2025/09/21 22:57:39"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0113",
+      "name": "Rustic Steel Hat",
+      "description": "Introducing the アラブ首長国連邦-inspired Towels, blending same style with local craftsmanship",
+      "price": 121000,
+      "stock_quantity": 336,
+      "is_available": true,
+      "createdAt": "2025/08/09 09:11:31",
+      "updatedAt": "2025/09/16 00:12:34"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0114",
+      "name": "Handcrafted Concrete Bacon",
+      "description": "Experience the azure brilliance of our Bacon, perfect for known environments",
+      "price": 87300,
+      "stock_quantity": 478,
+      "is_available": true,
+      "createdAt": "2025/09/19 11:41:16",
+      "updatedAt": "2025/09/22 10:46:19"
+    },
+    {
+      "category": "CTGR0003",
+      "code": "PROD0115",
+      "name": "Handcrafted Ceramic Bike",
+      "description": "Professional-grade Chicken perfect for helpful training and recreational use",
+      "price": 133600,
+      "stock_quantity": 153,
+      "is_available": true,
+      "createdAt": "2025/09/05 22:26:24",
+      "updatedAt": "2025/09/23 04:28:21"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0116",
+      "name": "Awesome Bronze Soap",
+      "description": "The sleek and agitated Bike comes with ivory LED lighting for smart functionality",
+      "price": 56800,
+      "stock_quantity": 105,
+      "is_available": true,
+      "createdAt": "2025/08/31 10:43:40",
+      "updatedAt": "2025/09/06 12:20:22"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0117",
+      "name": "Soft Aluminum Salad",
+      "description": "The sleek and red Shoes comes with indigo LED lighting for smart functionality",
+      "price": 122000,
+      "stock_quantity": 417,
+      "is_available": true,
+      "createdAt": "2025/08/19 16:29:16",
+      "updatedAt": "2025/09/22 10:55:50"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0118",
+      "name": "Generic Bronze Bike",
+      "description": "合同会社吉村放送's most advanced Tuna technology increases fat capabilities",
+      "price": 90600,
+      "stock_quantity": 148,
+      "is_available": true,
+      "createdAt": "2025/08/21 19:33:36",
+      "updatedAt": "2025/09/05 06:03:23"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0119",
+      "name": "Modern Silk Mouse",
+      "description": "New indigo Shoes with ergonomic design for unkempt comfort",
+      "price": 107500,
+      "stock_quantity": 122,
+      "is_available": true,
+      "createdAt": "2025/08/04 05:32:38",
+      "updatedAt": "2025/09/19 08:38:23"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0120",
+      "name": "Oriental Gold Fish",
+      "description": "Discover the rhinoceros-like agility of our Keyboard, perfect for friendly users",
+      "price": 89200,
+      "stock_quantity": 41,
+      "is_available": true,
+      "createdAt": "2025/08/10 09:23:02",
+      "updatedAt": "2025/08/25 12:28:34"
+    },
+    {
+      "category": "CTGR0001",
+      "code": "PROD0121",
+      "name": "Handcrafted Aluminum Keyboard",
+      "description": "Our juicy-inspired Salad brings a taste of luxury to your warmhearted lifestyle",
+      "price": 46300,
+      "stock_quantity": 376,
+      "is_available": true,
+      "createdAt": "2025/08/24 14:45:36",
+      "updatedAt": "2025/09/15 15:06:47"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0122",
+      "name": "Licensed Concrete Tuna",
+      "description": "Discover the digital new Table with an exciting mix of Rubber ingredients",
+      "price": 91300,
+      "stock_quantity": 88,
+      "is_available": true,
+      "createdAt": "2025/08/12 09:46:04",
+      "updatedAt": "2025/09/21 23:14:06"
+    },
+    {
+      "category": "CTGR0005",
+      "code": "PROD0123",
+      "name": "Incredible Silk Shirt",
+      "description": "The olive Tuna combines ラオス aesthetics with キュリウム-based durability",
+      "price": 116800,
+      "stock_quantity": 46,
+      "is_available": true,
+      "createdAt": "2025/08/08 17:03:50",
+      "updatedAt": "2025/08/16 16:36:19"
+    },
+    {
+      "category": "CTGR0004",
+      "code": "PROD0124",
+      "name": "Luxurious Gold Computer",
+      "description": "The indigo Computer combines 中央アフリカ aesthetics with ラジウム-based durability",
+      "price": 115200,
+      "stock_quantity": 249,
+      "is_available": true,
+      "createdAt": "2025/09/23 07:04:48",
+      "updatedAt": "2025/09/25 04:45:45"
+    },
+    {
+      "category": "CTGR0002",
+      "code": "PROD0125",
+      "name": "Modern Steel Salad",
+      "description": "Stylish Table designed to make you stand out with windy looks",
+      "price": 108400,
+      "stock_quantity": 32,
+      "is_available": true,
+      "createdAt": "2025/09/03 22:03:21",
+      "updatedAt": "2025/09/15 01:22:20"
+    }
+  ],
+  "categories": [
+    {
+      "code": "CTGR0001",
+      "name": "PC・周辺機器"
+    },
+    {
+      "code": "CTGR0002",
+      "name": "オフィス用品"
+    },
+    {
+      "code": "CTGR0003",
+      "name": "ソフトウェア"
+    },
+    {
+      "code": "CTGR0004",
+      "name": "書籍"
+    },
+    {
+      "code": "CTGR0005",
+      "name": "モバイル・ガジェット"
+    }
+  ]
+}

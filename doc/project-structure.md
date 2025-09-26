@@ -10,7 +10,7 @@ root/
 ## api-server
 - json-serverによるAPIモックサーバー。
 - localhost:3123で動作する。
-- json-server-extensioによりSwagger UIも提供する。
+- json-server-extensionによりSwagger UIも提供する。
 - CSVのアップロード/ダウンロードについては個別にmiddlewareとして実装する。
 - middlewareで実装した箇所はSwagger UIに反映されないため、別途openapi.yamlを定義し、json-server-extension
 
