@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev:react-admin": "concurrently --kill-others \"pnpm --filter api-server dev\" \"pnpm --filter react-admin dev\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.16.1"
+  "packageManager": "pnpm@10.16.1",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
 }
