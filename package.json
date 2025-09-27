@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev:react-admin": "concurrently --kill-others \"pnpm --filter api-server dev\" \"pnpm --filter react-admin dev\"",
+    "dev:react-generator": "concurrently --kill-others \"pnpm --filter api-server dev\" \"pnpm --filter react-generator dev\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
